@@ -1,0 +1,87 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#body-sign{
+    background-color: white;
+}
+
+#h1-index{
+    text-transform: uppercase;
+}
+
+#h1-sign{
+    text-transform: uppercase;
+    text-align: center;
+    color: #FF481F;
+    margin: 100px 0px 0px 0px;
+}
+
+th{
+    border: 1px solid black;
+    padding: 10px 20px 10px 20px;
+}
+
+td{
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 10px 93px 10px 93px;
+    margin: 0px 0px 0px 2px;
+}
+
+form{
+    border: 1px solid black;
+}
+
+input{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 70px 10px 70px;
+    margin: 10px auto 5px auto;
+    display: block;
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    border: 3px solid #FF481F;
+
+}
+
+button{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 70px 10px 70px;
+    display: block;
+    margin: 15px auto auto auto;
+    border: 3px solid #FF481F;
+    border-radius: 30px;
+    background-color: white;
+}
+
+button:hover{
+    color: white;
+    background-color: #FF481F;
+
+}
+
+#a-sign{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 70px 10px 70px;
+    display: block;
+    margin: 15px auto auto auto;
+    border: 3px solid #FF481F;
+    border-radius: 30px;
+    background-color: white;
+}
+
+#a-sign:hover{
+    color: white;
+    background-color: #FF481F;
+}
